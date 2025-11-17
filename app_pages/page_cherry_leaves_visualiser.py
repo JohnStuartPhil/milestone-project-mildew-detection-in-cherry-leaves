@@ -9,8 +9,8 @@ from matplotlib.image import imread
 import itertools
 import random
 
-def page_cells_visualiser_body():
-    st.write("### Cells Visualiser")
+def page_cherry_leaves_visualiser_body():
+    st.write("### Cherry Leaves Visualiser")
     st.info(
         f"* The client is interested in having a study that visually "
         f"differentiates between a healthy cherry leaf from a cherry leaf that contains powdery mildew.")
